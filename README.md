@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kray, 
 - 👀 I’m interested in Java develop
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning spoken English and Golang
 - 💞️ I’ll share my codes and study notes
 - 📫📫📫📫📫📫📫📫📫📫📫📫📫📫📫📫📫📫📫📫📫
 
